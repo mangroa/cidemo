@@ -4,7 +4,7 @@
 
     <groupId>com.elabor8</groupId>
     <artifactId>ci-demo</artifactId>
-    <version>1.14-SNAPSHOT</version>
+    <version>1.16-SNAPSHOT</version>
 
     <properties>
         <project.scm.id>github</project.scm.id>
@@ -22,12 +22,12 @@
             <url>http://192.168.2.135:8081/nexus/content/repositories/releases/</url>
             <layout>default</layout>
         </repository>
-        <snapshotRepository>
-            <id>internal.repo</id>
-            <name>repo</name>
-            <url>http://192.168.2.135:8081/nexus/content/repositories/snapshots/</url>
-            <layout>default</layout>
-        </snapshotRepository>
+        <!--<snapshotRepository>-->
+            <!--<id>internal.repo</id>-->
+            <!--<name>repo</name>-->
+            <!--<url>http://192.168.2.135:8081/nexus/content/repositories/snapshots/</url>-->
+            <!--<layout>default</layout>-->
+        <!--</snapshotRepository>-->
     </distributionManagement>
 
 </project>
