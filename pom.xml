@@ -4,7 +4,7 @@
 
     <groupId>com.elabor8</groupId>
     <artifactId>ci-demo</artifactId>
-    <version>1.10-SNAPSHOT</version>
+    <version>1.12-SNAPSHOT</version>
 
     <properties>
         <project.scm.id>github</project.scm.id>
@@ -15,5 +15,19 @@
         <developerConnection>scm:git:git@github.com:mangroa/cidemo.git</developerConnection>
     <tag>HEAD</tag>
   </scm>
+    <distributionManagement>
+        <repository>
+            <id>internal.repo</id>
+            <name>repo</name>
+            <url>http://192.168.2.135:8081/nexus/content/repositories/releases/</url>
+            <layout>default</layout>
+        </repository>
+        <snapshotRepository>
+            <id>internal.repo</id>
+            <name>repo</name>
+            <url>http://192.168.2.135:8081/nexus/content/repositories/snapshots/</url>
+            <layout>default</layout>
+        </snapshotRepository>
+    </distributionManagement>
 
 </project>
