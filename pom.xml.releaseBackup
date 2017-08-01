@@ -4,7 +4,7 @@
 
     <groupId>com.elabor8</groupId>
     <artifactId>ci-demo</artifactId>
-    <version>0.4-SNAPSHOT</version>
+    <version>0.3-SNAPSHOT</version>
 
     <properties>
         <project.scm.id>github</project.scm.id>
