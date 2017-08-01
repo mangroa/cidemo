@@ -4,16 +4,16 @@
 
     <groupId>com.elabor8</groupId>
     <artifactId>ci-demo</artifactId>
-    <version>1.0</version>
+    <version>1.9-SNAPSHOT</version>
 
     <properties>
         <project.scm.id>github</project.scm.id>
     </properties>
     <scm>
         <url>scm:git:github.com/mangroa/ci-demo</url>
-        <!--<connection>scm:git:git@github.com/mangroa/mvntester.git</connection>-->
-        <developerConnection>scm:git:git@github.com:mangroa/ci-demo.git</developerConnection>
-      <tag>ci-demo-1.0</tag>
+        <connection>scm:git:git@github.com/mangroa/cidemo.git</connection>
+        <developerConnection>scm:git:git@github.com:mangroa/cidemo.git</developerConnection>
+    <tag>HEAD</tag>
   </scm>
 
 </project>
