@@ -56,13 +56,13 @@
         <repository>
             <id>internal.repo-releases</id>
             <name>repo</name>
-            <url>http://192.168.0.15:8081/nexus/content/repositories/releases/</url>
+            <url>http://192.168.2.135:8081/nexus/content/repositories/releases/</url>
             <layout>default</layout>
         </repository>
         <snapshotRepository>
             <id>internal.repo-snapshots</id>
             <name>repo</name>
-            <url>http://192.168.0.15:8081/nexus/content/repositories/snapshots/</url>
+            <url>http://192.168.2.135:8081/nexus/content/repositories/snapshots/</url>
             <layout>default</layout>
         </snapshotRepository>
     </distributionManagement>
