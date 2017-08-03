@@ -10,4 +10,10 @@ public class HelloWorldTest {
         assertEquals("B", "B");
     }
 
+    @Test
+    public void addSuccess()
+    {
+        assertEquals(7, HelloWorld.add(3,4));
+    }
+
 }
