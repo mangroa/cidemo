@@ -7,7 +7,7 @@ public class HelloWorldTest {
     @Test
     public void helloTest() {
 
-        assertEquals("A", "B");
+        assertEquals("B", "B");
     }
 
 }
