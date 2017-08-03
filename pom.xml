@@ -4,7 +4,7 @@
 
     <groupId>com.elabor8</groupId>
     <artifactId>ci-demo</artifactId>
-    <version>0.83</version>
+    <version>0.84-SNAPSHOT</version>
 
     <properties>
         <project.scm.id>github</project.scm.id>
@@ -48,7 +48,7 @@
         <url>scm:git:github.com/mangroa/cidemo</url>
         <connection>scm:git:git@github.com:mangroa/cidemo.git</connection>
         <developerConnection>scm:git:git@github.com:mangroa/cidemo.git</developerConnection>
-    <tag>ci-demo-0.83</tag>
+    <tag>HEAD</tag>
   </scm>
 
 
