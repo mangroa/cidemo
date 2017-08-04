@@ -5,7 +5,7 @@
 
     <groupId>com.elabor8</groupId>
     <artifactId>ci-demo</artifactId>
-    <version>0.85-SNAPSHOT</version>
+    <version>${VERSION_NUMBER}</version>
 
     <properties>
         <project.scm.id>github</project.scm.id>
