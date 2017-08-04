@@ -9,7 +9,6 @@
 
     <properties>
         <project.scm.id>github</project.scm.id>
-        <VERSION_NUMBER>3.0-SNAPSHOT</VERSION_NUMBER>
     </properties>
 
 
@@ -28,13 +27,7 @@
     <build>
         <pluginManagement>
             <plugins>
-                <plugin>
-                    <artifactId>maven-scm-plugin</artifactId>
-                    <version>1.8.1</version>
-                    <configuration>
-                        <tag>${project.artifactId}-${VERSION_NUMBER}</tag>
-                    </configuration>
-                </plugin>
+
 
                 <plugin>
                     <groupId>org.apache.maven.plugins</groupId>
