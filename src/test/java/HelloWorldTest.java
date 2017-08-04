@@ -13,7 +13,7 @@ public class HelloWorldTest {
     @Test
     public void addSuccess()
     {
-        assertEquals(7, HelloWorld.add(3,4));
+        assertEquals(6, HelloWorld.add(3,4));
     }
 
 }
