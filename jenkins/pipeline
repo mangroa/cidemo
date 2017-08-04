@@ -1,0 +1,47 @@
+
+node {
+   stage('Preparation') { // for display purposes
+      // Get some code from a GitHub repository
+      git 'https://github.com/mangroa/cidemo.git'
+      sh "git clean -f && git reset --hard origin/master"
+      //sh "git tag -l | xargs git tag -d"
+      // Get the Maven tool.
+      // ** NOTE: This 'M3' Maven tool must be configured
+      // **       in the global configuration.
+      mvnHome = tool 'M3'
+      pom = readMavenPom file: 'pom.xml'
+      version = pom.version.replace("-SNAPSHOT", ".${currentBuild.number}")
+      sh "echo Prepare version numbers"
+      sh "echo ${pom}"
+      sh "echo ${version}"
+      }
+}
+
+
+node {
+   stage('Build & Test') {
+        // Run the maven test stage
+        sh "'${mvnHome}/bin/mvn' -Dmaven.test.failure.ignore=false test"
+    }
+   stage('Deploy to Nexus') {
+        // Run the maven build
+        sh "${mvnHome}/bin/mvn -Darguments=-DskipTests -DreleaseVersion=${version} -DdevelopmentVersion=${pom.version} -DpushChanges=false -DlocalCheckout=true -DpreparationGoals=initialize release:prepare release:perform -B"
+         withCredentials([usernamePassword(credentialsId: 'alangit', passwordVariable: 'GIT_PASSWORD', usernameVariable: 'GIT_USERNAME')]) {
+            sh('git push https://${GIT_USERNAME}:${GIT_PASSWORD}@github.com/mangroa/cidemo.git --tags')
+        }
+   }
+}
+
+input 'Proceed to UAT deployment?'
+node {
+    stage ('Deploy to UAT') {
+        sh "echo 'About to deploy to UAT environment'"
+        //git 'push origin ${pom.artifactId}-${version}'
+
+
+    }
+   stage('Results') {
+      junit '**/target/surefire-reports/TEST-*.xml'
+      archive 'target/*.jar'
+   }
+}
