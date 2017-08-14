@@ -1,0 +1,14 @@
+<settings>
+    <servers>
+        <server>
+            <id>internal.repo-releases</id>
+            <username>admin</username>
+            <password>admin123</password>
+        </server>
+        <server>
+            <id>internal.repo-snapshots</id>
+            <username>deployment</username>
+            <password>deployment</password>
+        </server>
+    </servers>
+</settings>
