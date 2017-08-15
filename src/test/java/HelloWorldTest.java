@@ -15,5 +15,4 @@ public class HelloWorldTest {
     {
         assertEquals(7, HelloWorld.add(3,4));
     }
-
 }
