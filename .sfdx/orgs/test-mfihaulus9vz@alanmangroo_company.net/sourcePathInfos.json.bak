@@ -1,0 +1,392 @@
+[
+    [
+        "/Users/alanmangroo/IdeaProjects/dxmigration/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/alanmangroo/IdeaProjects/dxmigration/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1512687831000,
+            "changeTime": 1512687831000,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/alanmangroo/IdeaProjects/dxmigration/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/alanmangroo/IdeaProjects/dxmigration/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1512687831000,
+            "changeTime": 1512687831000,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alanmangroo/IdeaProjects/dxmigration/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/alanmangroo/IdeaProjects/dxmigration/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 204,
+            "modifiedTime": 1512687898000,
+            "changeTime": 1512687898000,
+            "contentHash": "b3ce5551332584cb46821a7c02d2963bc4d2b821",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alanmangroo/IdeaProjects/dxmigration/force-app/main/default/applications",
+        {
+            "state": "n",
+            "sourcePath": "/Users/alanmangroo/IdeaProjects/dxmigration/force-app/main/default/applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1512687898000,
+            "changeTime": 1512687898000,
+            "contentHash": "f62481aba6b5d3f14930b9fdf11652f41085cfb1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alanmangroo/IdeaProjects/dxmigration/force-app/main/default/applications/LightningApp.app-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/alanmangroo/IdeaProjects/dxmigration/force-app/main/default/applications/LightningApp.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 390,
+            "modifiedTime": 1512687898000,
+            "changeTime": 1512687898000,
+            "contentHash": "b3178e15ae53eed7b19bdc51dfac9df447716017",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alanmangroo/IdeaProjects/dxmigration/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/alanmangroo/IdeaProjects/dxmigration/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1512687898000,
+            "changeTime": 1512687898000,
+            "contentHash": "31509f2b28d697cf7ef1dfcb46206813968ef63f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alanmangroo/IdeaProjects/dxmigration/force-app/main/default/aura/contactList",
+        {
+            "state": "n",
+            "sourcePath": "/Users/alanmangroo/IdeaProjects/dxmigration/force-app/main/default/aura/contactList",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 272,
+            "modifiedTime": 1512687898000,
+            "changeTime": 1512687898000,
+            "contentHash": "f0617f484909b8a57ec33514694e5c96eef7b210",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alanmangroo/IdeaProjects/dxmigration/force-app/main/default/aura/contactList/contactList.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/alanmangroo/IdeaProjects/dxmigration/force-app/main/default/aura/contactList/contactList.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2434,
+            "modifiedTime": 1512687898000,
+            "changeTime": 1512687898000,
+            "contentHash": "cc3e2eabc779df9c03b56e821d425b06debeb32a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alanmangroo/IdeaProjects/dxmigration/force-app/main/default/aura/contactList/contactList.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/alanmangroo/IdeaProjects/dxmigration/force-app/main/default/aura/contactList/contactList.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 211,
+            "modifiedTime": 1512687898000,
+            "changeTime": 1512687898000,
+            "contentHash": "460eac2dac483fded990b3bbd9d9a88f5d262001",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alanmangroo/IdeaProjects/dxmigration/force-app/main/default/aura/contactList/contactList.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/alanmangroo/IdeaProjects/dxmigration/force-app/main/default/aura/contactList/contactList.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 9,
+            "modifiedTime": 1512687898000,
+            "changeTime": 1512687898000,
+            "contentHash": "690dd1ee4df0575d78499135bec93071e468c5a4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alanmangroo/IdeaProjects/dxmigration/force-app/main/default/aura/contactList/contactListController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/alanmangroo/IdeaProjects/dxmigration/force-app/main/default/aura/contactList/contactListController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1029,
+            "modifiedTime": 1512687898000,
+            "changeTime": 1512687898000,
+            "contentHash": "b7e9996a83bb5c861ef2b0f544ae983f108d7e12",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alanmangroo/IdeaProjects/dxmigration/force-app/main/default/aura/contactList/contactListHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/alanmangroo/IdeaProjects/dxmigration/force-app/main/default/aura/contactList/contactListHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1220,
+            "modifiedTime": 1512687898000,
+            "changeTime": 1512687898000,
+            "contentHash": "085bda43b723b1e9f0534928fa6edb0129af2aee",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alanmangroo/IdeaProjects/dxmigration/force-app/main/default/aura/contactList/contactListRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/alanmangroo/IdeaProjects/dxmigration/force-app/main/default/aura/contactList/contactListRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1512687898000,
+            "changeTime": 1512687898000,
+            "contentHash": "d8889ac0d18cd169b09b0a0a781471dd625dea9f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alanmangroo/IdeaProjects/dxmigration/force-app/main/default/aura/contacts",
+        {
+            "state": "n",
+            "sourcePath": "/Users/alanmangroo/IdeaProjects/dxmigration/force-app/main/default/aura/contacts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 272,
+            "modifiedTime": 1512687898000,
+            "changeTime": 1512687898000,
+            "contentHash": "8fca351206a2741ec6bbcb58d943e48e12cad461",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alanmangroo/IdeaProjects/dxmigration/force-app/main/default/aura/contacts/contacts.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/alanmangroo/IdeaProjects/dxmigration/force-app/main/default/aura/contacts/contacts.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 744,
+            "modifiedTime": 1512687898000,
+            "changeTime": 1512687898000,
+            "contentHash": "86291f8d9633be6683f5383a2a73b6ce790be22d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alanmangroo/IdeaProjects/dxmigration/force-app/main/default/aura/contacts/contacts.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/alanmangroo/IdeaProjects/dxmigration/force-app/main/default/aura/contacts/contacts.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 211,
+            "modifiedTime": 1512687898000,
+            "changeTime": 1512687898000,
+            "contentHash": "460eac2dac483fded990b3bbd9d9a88f5d262001",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alanmangroo/IdeaProjects/dxmigration/force-app/main/default/aura/contacts/contacts.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/alanmangroo/IdeaProjects/dxmigration/force-app/main/default/aura/contacts/contacts.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 9,
+            "modifiedTime": 1512687898000,
+            "changeTime": 1512687898000,
+            "contentHash": "690dd1ee4df0575d78499135bec93071e468c5a4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alanmangroo/IdeaProjects/dxmigration/force-app/main/default/aura/contacts/contactsController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/alanmangroo/IdeaProjects/dxmigration/force-app/main/default/aura/contacts/contactsController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 316,
+            "modifiedTime": 1512687898000,
+            "changeTime": 1512687898000,
+            "contentHash": "4b3488765ddb72efd75559b676c396be68d8b9c6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alanmangroo/IdeaProjects/dxmigration/force-app/main/default/aura/contacts/contactsHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/alanmangroo/IdeaProjects/dxmigration/force-app/main/default/aura/contacts/contactsHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1512687898000,
+            "changeTime": 1512687898000,
+            "contentHash": "c3c6efda41de64b759982510d6a2c72226aa087f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alanmangroo/IdeaProjects/dxmigration/force-app/main/default/aura/contacts/contactsRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/alanmangroo/IdeaProjects/dxmigration/force-app/main/default/aura/contacts/contactsRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1512687898000,
+            "changeTime": 1512687898000,
+            "contentHash": "d8889ac0d18cd169b09b0a0a781471dd625dea9f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alanmangroo/IdeaProjects/dxmigration/force-app/main/default/classes",
+        {
+            "state": "n",
+            "sourcePath": "/Users/alanmangroo/IdeaProjects/dxmigration/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1512687898000,
+            "changeTime": 1512687898000,
+            "contentHash": "cc0c910fdddb381b8f59557cb7b72d9252eaf09f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alanmangroo/IdeaProjects/dxmigration/force-app/main/default/classes/ContactController.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/alanmangroo/IdeaProjects/dxmigration/force-app/main/default/classes/ContactController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 298,
+            "modifiedTime": 1512687898000,
+            "changeTime": 1512687898000,
+            "contentHash": "b0223c9f9fc0117d7c05fcfcaa6f24eb9d41c699",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alanmangroo/IdeaProjects/dxmigration/force-app/main/default/classes/ContactController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/alanmangroo/IdeaProjects/dxmigration/force-app/main/default/classes/ContactController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1512687898000,
+            "changeTime": 1512687898000,
+            "contentHash": "ec29c6f2ff617299f8e53d0ea63d440cd27207eb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alanmangroo/IdeaProjects/dxmigration/force-app/main/default/tabs",
+        {
+            "state": "n",
+            "sourcePath": "/Users/alanmangroo/IdeaProjects/dxmigration/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1512687898000,
+            "changeTime": 1512687898000,
+            "contentHash": "a38a2de9572b5790985057a04a1a5974aa30c042",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alanmangroo/IdeaProjects/dxmigration/force-app/main/default/tabs/ContactListTab.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/alanmangroo/IdeaProjects/dxmigration/force-app/main/default/tabs/ContactListTab.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 266,
+            "modifiedTime": 1512687898000,
+            "changeTime": 1512687898000,
+            "contentHash": "f5017f8369abf573dd8d62d9ab6fdfd76557eaf1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alanmangroo/IdeaProjects/dxmigration",
+        {
+            "state": "n",
+            "sourcePath": "/Users/alanmangroo/IdeaProjects/dxmigration",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 306,
+            "modifiedTime": 1512687950000,
+            "changeTime": 1512687950000,
+            "contentHash": "82aefce1fae55b88f483d34e7b4b7bd2fe6f453c",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
