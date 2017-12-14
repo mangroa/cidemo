@@ -1,5 +1,5 @@
 {
-    "defaultusername": "anewscratch",
-    "oauthLocalPort" : "1717"
-
+    "defaultusername": "myscratchorg",
+    "oauthLocalPort": "1717",
+    "defaultdevhubusername": "devhuborg"
 }
