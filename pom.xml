@@ -58,13 +58,13 @@
         <repository>
             <id>internal.repo-releases</id>
             <name>repo</name>
-            <url>http://192.168.2.181:8081/repository/maven-releases/</url>
+            <url>http://54.252.182.85:8081/repository/maven-releases/</url>
             <layout>default</layout>
         </repository>
         <snapshotRepository>
             <id>internal.repo-snapshots</id>
             <name>repo</name>
-            <url>http://192.168.2.181:8081/repository/maven-snapshots/</url>
+            <url>http://54.252.182.85:8081/repository/maven-snapshots/</url>
             <layout>default</layout>
         </snapshotRepository>
     </distributionManagement>
